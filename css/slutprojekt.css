@@ -24,24 +24,65 @@ body {
   background: transparent;
   margin-top: -7px;
 }
+/* || Slogan */
+
+.Doors {
+  width: 30cm;
+  display: flex; 
+  align-self: center;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#KnockingDoor {
+  margin: 20px;
+  font-size: 30px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+}
+
+#Opendoor {
+  margin: 20px;
+  font-size: 30px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+}
 
 /* || affärside */
 
+
 .idea {
- font-family: 'montserrat classic', sans-serif;
- color: #2a2a2a;
+  width: 30cm;
+  display: flex; 
+  align-self: center;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  border-style: solid;
+  border-color: white;
+  border-width: 3px;
 }
+
+#info {
+  margin: 20px;
+  font-size: 30px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+}
+
+
 
 /* || typography */
 
 font[size="7"], font[size="6"], font[size="5"] {
   font-family: 'montserrat classic', sans-serif;
-  color: #2a2a2a;
+  color: white;
 }
 
 p, input, li, table, label {
   font-family: 'montserrat classic', sans-serif;
-  color: #2a2a2a;
+  color: white;
 }
 
 font[size="7"] {
