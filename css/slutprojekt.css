@@ -26,20 +26,18 @@ body {
 }
 /* || Slogan */
 
-.Doors {
-  width: 30cm;
+
+#KnockingDoor {
+  font-size: 30px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+  width: 1px;
   display: flex; 
   align-self: center;
   margin-top: 100px;
   margin-right: auto;
   margin-left: auto;
-}
-
-#KnockingDoor {
-  margin: 20px;
-  font-size: 30px;
-  font-family: 'montserrat classic', sans-serif;
-  color: white;
+  text-align: center;
 }
 
 #Opendoor {
@@ -47,6 +45,11 @@ body {
   font-size: 30px;
   font-family: 'montserrat classic', sans-serif;
   color: white;
+  width: 30cm;
+  display: flex; 
+  align-self: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /* || affärside */
