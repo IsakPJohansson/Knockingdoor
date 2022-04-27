@@ -64,7 +64,32 @@ body {
   color: white;
 }
 
+/* || Bli säljare */
 
+.fire li {
+  font-size: 25px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+  text-align: left;
+  margin-top: 10px;
+  list-style-type: '- ';
+}
+
+.water {
+  font-size: 25px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+  text-align: left;
+  margin-top: 10px;
+  text-decoration: underline;
+}
+
+.earth {
+margin-top: 100px;
+margin-left: 103px;
+margin-right: auto;
+position: absolute;
+}
 
 /* || typography */
 
