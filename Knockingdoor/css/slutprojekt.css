@@ -24,6 +24,18 @@ body {
   background: transparent;
   margin-top: -7px;
 }
+
+/* || insta */
+
+.insta img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: transparent;
+  margin-top: 500px;
+  margin-left: 93px;
+}
+
 /* || Slogan */
 
 .slogan{
@@ -90,6 +102,29 @@ margin-left: 103px;
 margin-right: auto;
 position: absolute;
 }
+
+/* || Grundare & Ägare */
+
+.grundare {
+  width: 10cm;
+  display: flex; 
+  align-self: left;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  border-style: solid;
+  border-color: white;
+  border-width: 3px;
+}
+
+#Theo {
+  text-align: justify;
+  margin: 20px;
+  font-size: 20px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+}
+
 
 /* || typography */
 
