@@ -33,8 +33,8 @@ body {
   height: 100px;
   background: transparent;
   margin-top: 500px;
-  margin-left: 93px;
 }
+
 
 /* || Slogan */
 
@@ -70,8 +70,9 @@ body {
 }
 
 #info {
+  text-align: justify;
   margin: 20px;
-  font-size: 30px;
+  font-size: 32px;
   font-family: 'montserrat classic', sans-serif;
   color: white;
 }
@@ -108,7 +109,6 @@ position: absolute;
 .grundare {
   width: 10cm;
   display: flex; 
-  align-self: left;
   margin-top: 100px;
   margin-right: auto;
   margin-left: 225px;
@@ -129,7 +129,6 @@ position: absolute;
 .agare {
   width: 10cm;
   display: flex; 
-  align-self: left;
   margin-top: 100px;
   margin-right: auto;
   margin-left: 1034px;
