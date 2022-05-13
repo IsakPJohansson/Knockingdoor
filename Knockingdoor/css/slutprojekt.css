@@ -10,11 +10,8 @@ html {
   background-color: #e2d4ca;
 }
 
-body {
-  width: 80%;
-  min-width: 1024px;
-  margin: 0 auto;
-}
+
+
 /* || logo */
 
 .header img {
@@ -32,7 +29,7 @@ body {
   width: 100px;
   height: 100px;
   background: transparent;
-  margin-top: 500px;
+  margin-top: 700px;
 }
 
 
@@ -40,7 +37,7 @@ body {
 
 .slogan{
   margin: auto;
-  width: 50%;
+  width: 30cm;
   padding: 10px;
   padding-top: 100px;
 }
@@ -50,7 +47,7 @@ body {
   font-family: 'montserrat classic', sans-serif;
   color: white;
   text-align: center;
-  width: 800px;
+  width: 30cm;
   margin: auto;
 }
 
@@ -59,11 +56,10 @@ body {
 
 .idea {
   width: 30cm;
+  margin: auto;
   display: flex; 
   align-self: center;
   margin-top: 100px;
-  margin-right: auto;
-  margin-left: auto;
   border-style: solid;
   border-color: white;
   border-width: 3px;
@@ -102,6 +98,15 @@ margin-top: 100px;
 margin-left: 103px;
 margin-right: auto;
 position: absolute;
+}
+/* || sedel */
+
+.sedel img {
+margin: auto;
+margin-left: 900px;
+margin-top: 150px;
+width: 1104px;
+height: 472px;
 }
 
 /* || Grundare & Ägare */
