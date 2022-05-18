@@ -32,6 +32,21 @@ html {
   margin-top: 700px;
 }
 
+.insta2 img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: transparent;
+  margin-top: 250px;
+}
+
+.insta3 img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: transparent;
+  margin-top: 430px;
+}
 
 /* || Slogan */
 
@@ -49,6 +64,7 @@ html {
   text-align: center;
   width: 30cm;
   margin: auto;
+  margin-left: 40px;
 }
 
 /* || affärside */
@@ -104,9 +120,9 @@ position: absolute;
 .sedel img {
 margin: auto;
 margin-left: 900px;
-margin-top: 150px;
-width: 1104px;
-height: 472px;
+margin-top: 100px;
+width: 828px;
+height: 354px;
 }
 
 /* || Grundare & Ägare */
@@ -114,7 +130,7 @@ height: 472px;
 .grundare {
   width: 10cm;
   display: flex; 
-  margin-top: 100px;
+  margin-top: 50px;
   margin-right: auto;
   margin-left: 225px;
   border-style: solid;
@@ -134,7 +150,7 @@ height: 472px;
 .agare {
   width: 10cm;
   display: flex; 
-  margin-top: 100px;
+  margin-top: 50px;
   margin-right: auto;
   margin-left: 1034px;
   border-style: solid;
@@ -150,6 +166,24 @@ height: 472px;
   color: white;
 }
 
+/* || profilbild */
+
+.theodor img{
+  margin-top: 50px;
+margin-left: 225px;
+width: 378px;
+height: 500px;
+}
+
+.virre img{
+  margin-left: 1034px;
+width: 378px;
+height: 500px;
+}
+
+.maincontainer{
+  display: flex;
+}
 
 /* || typography */
 
