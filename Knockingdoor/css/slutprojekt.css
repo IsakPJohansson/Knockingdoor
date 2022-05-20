@@ -45,7 +45,7 @@ html {
   width: 100px;
   height: 100px;
   background: transparent;
-  margin-top: 430px;
+  margin-top: 200px;
 }
 
 .insta4 img {
@@ -250,7 +250,12 @@ height: 500px;
   display: flex;
 }
 
+/* || produkt */
 
+.mona img {
+width: 500px;
+height: 700px;
+}
 
 /* || typography */
 
