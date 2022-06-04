@@ -56,6 +56,14 @@ html {
   margin-top: 430px;
 }
 
+.insta5 img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: transparent;
+  margin-top: 300px;
+}
+
 /* || Slogan */
 
 .slogan{
@@ -266,6 +274,27 @@ width: 340px;
 height: 600px;
 }
 
+.guitariststrumpa img{
+  margin-top: 10px;
+  margin-left: 10px;
+width: 400px;
+height: 600px;
+}
+
+.skrietstrumpa img{
+  margin-top: 10px;
+  margin-left: 10px;
+width: 400px;
+height: 600px;
+}
+
+.starstrumpa img{
+  margin-top: 10px;
+  margin-left: 30px;
+width: 300px;
+height: 600px;
+}
+
 .monaclass {
   width: 20cm;
   display: flex; 
@@ -321,6 +350,7 @@ height: 600px;
   font-family: 'montserrat classic', sans-serif;
   color: white;
   margin-top: 1px;  
+  width: 20cm;
 }
 
 .produkttext {
@@ -329,13 +359,6 @@ height: 600px;
   font-size: 20px;
   font-family: 'montserrat classic', sans-serif;
   color: white;
-}
-
-.guitariststrumpa img{
-  margin-top: 10px;
-  margin-left: 10px;
-width: 400px;
-height: 600px;
 }
 
 .mainprodukt {
