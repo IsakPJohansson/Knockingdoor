@@ -252,11 +252,95 @@ height: 500px;
 
 /* || produkt */
 
-.mona img {
-width: 500px;
-height: 700px;
+.mona img{
+  margin-top: 50px;
+margin-left: 425px;
+width: 378px;
+height: 500px;
 }
 
+.monastrumpa img{
+  margin-top: 10px;
+  margin-left: 10px;
+width: 340px;
+height: 600px;
+}
+
+.monaclass {
+  width: 20cm;
+  display: flex; 
+  margin-top: 10px;
+  margin-right: auto;
+  margin-left: 425px;
+  border-style: solid;
+  border-color: white;
+  border-width: 3px;
+  position: absolute;
+}
+
+.monalisa {
+  text-align: justify;
+  margin: 20px;
+  font-size: 20px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+  display: flex; 
+  margin-right: auto;
+  margin-left: 425px;
+  text-decoration: underline;
+  margin-top: 1px;
+  font-size: 40px;
+}
+
+.monaside {
+  border-style: solid;
+  border-color: white;
+  border-right: 3px;
+  border-left: 3px;
+  margin-left: 425px;
+  margin-right: auto;
+  width: 5cm;
+  
+}
+
+.monalisa1 {
+  text-align: left;
+  margin: 10px;
+  font-size: 20px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+  text-decoration: underline;
+  margin-top: 5px;
+
+}
+
+.konst{
+  text-align: left;
+  margin: 10px;
+  font-size: 20px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+  margin-top: 1px;  
+}
+
+.produkttext {
+  text-align: justify;
+  margin: 20px;
+  font-size: 20px;
+  font-family: 'montserrat classic', sans-serif;
+  color: white;
+}
+
+.guitariststrumpa img{
+  margin-top: 10px;
+  margin-left: 10px;
+width: 400px;
+height: 600px;
+}
+
+.mainprodukt {
+  display: flex;
+}
 /* || typography */
 
 font[size="7"], font[size="6"], font[size="5"] {
