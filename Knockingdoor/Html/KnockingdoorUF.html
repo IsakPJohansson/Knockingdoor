@@ -7,7 +7,7 @@
     <link href="../css/slutprojekt.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300Sonsie+One" rel="stylesheet" type="text/css">
 
-    <script src="slutprojekt.js" defer></script>
+    <script src="/Users/isakjohansson/Downloads/Knockingdoor/JS/slutprojekt.js" defer></script>
     <title>Knocking Door</title>
   </head>
   <body>
@@ -54,5 +54,14 @@
     </a>
     </div>
     
+    <script>
+      const toggleButton = document.getElementsByClassName('toggle-button')[0]
+    const navbarLinks = document.getElementsByClassName('navbar-links')[0]
+    
+    toggleButton.addEventListener('click', () => {
+      navbarLinks.classList.toggle('active')
+    })
+    </script>
+
   </body>
 </html>
