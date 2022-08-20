@@ -773,7 +773,7 @@ body {
 
 .brand-title a:link {
   font-size: 4rem;
-  margin: .5rem;
+  margin: 1rem;
   text-decoration: none;
   color: white;
 }
@@ -881,6 +881,7 @@ body {
       display: none;
       width: 100%;
     font-size: 20px;
+    margin-left: 5px;
   }
 
   .navbar-links ul {
@@ -895,4 +896,25 @@ body {
   .navbar-links.active {
       display: flex;
   }
+
+
+.navbar17 {
+  display: flex;
+  width: 100%;
+font-size: 20px;
+margin-left: 5px;
+}
+
+.navbar17 ul {
+  width: 100%;
+  flex-direction: column;
+}
+
+.navbar17 ul li {
+  text-align: center;
+}
+
+.navbar17.active {
+  display: flex;
+}
 }
