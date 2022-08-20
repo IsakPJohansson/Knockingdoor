@@ -819,6 +819,36 @@ body {
   background-color: #cdbdb2;
 }
 
+.navbar17 {
+  height: 100%;
+}
+
+.navbar17 ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar17 li {
+  list-style: none;
+  border: solid 2px white;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.navbar17 li a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 1rem;
+}
+
+.navbar17 li:hover {
+  background-image: linear-gradient(to bottom right, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+}
+
 .toggle-button {
   position: absolute;
   top: .75rem;
@@ -861,9 +891,6 @@ body {
   .navbar-links ul li {
       text-align: center;
   }
-
-  
- 
 
   .navbar-links.active {
       display: flex;
